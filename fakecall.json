@@ -1,0 +1,37 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "4fd9e71997abecb4",
+            "max_int": "dee5c568e44982ad",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Cristiano Ronaldo",
+            "photo": "https://i.postimg.cc/RVcFSVKB/E-SWPjg-Xs-JYem-J0-1.jpg",
+            "voice": "https://ringy9.github.io/CristianoRonaldo/mp3.mp4",
+            "video": "https://ringy9.github.io/CristianoRonaldo/vid1.mp4",
+            "stories": [
+                "https://i.postimg.cc/YCzwVvgv/img1.jpg",
+                "https://i.postimg.cc/TP2XXTqC/img2.jpg",
+                "https://i.postimg.cc/6QHxWFMw/img3.jpg",
+                "https://i.postimg.cc/nc7x4RhY/img4.jpg"
+               
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/YCzwVvgv/img1.jpg",
+                "https://i.postimg.cc/TP2XXTqC/img2.jpg",
+                "https://i.postimg.cc/6QHxWFMw/img3.jpg",
+                "https://i.postimg.cc/nc7x4RhY/img4.jpg"
+            ]
+          
+        }
+    ]
+}
